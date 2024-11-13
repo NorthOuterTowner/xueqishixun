@@ -1,0 +1,15 @@
+debug/main.o
+debug/warningid.o
+debug/warninginput.o
+debug/warningnocar.o
+debug/warningsamecar.o
+debug/warningwaitnum.o
+debug/widget.o
+debug/qrc_pic.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_warningid.o
+debug/moc_warninginput.o
+debug/moc_warningnocar.o
+debug/moc_warningsamecar.o
+debug/moc_warningwaitnum.o
+debug/moc_widget.o

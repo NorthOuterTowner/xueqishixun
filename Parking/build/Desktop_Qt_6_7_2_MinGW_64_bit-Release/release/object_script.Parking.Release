@@ -1,0 +1,15 @@
+release/main.o
+release/warningid.o
+release/warninginput.o
+release/warningnocar.o
+release/warningsamecar.o
+release/warningwaitnum.o
+release/widget.o
+release/qrc_pic.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_warningid.o
+release/moc_warninginput.o
+release/moc_warningnocar.o
+release/moc_warningsamecar.o
+release/moc_warningwaitnum.o
+release/moc_widget.o
